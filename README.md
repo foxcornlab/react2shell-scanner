@@ -63,4 +63,4 @@ For `educational` and `authorized` testing only. Only scan systems you own or ha
 
 ## `Foxcorn Lab`
 
-> Research by `Vineeth Kumar`, `Foxcorn Lab`. Found a bug or want a feature, open an `issue`.
+> Research by `Vineeth Kumar` (`foxcornlab`). Found a bug or want a feature, open an `issue`.
